@@ -1,2 +1,2 @@
 # hashCode2020
-Rešenja tima Burak sa sirom
+Rešenja tima Burek sa sirom
